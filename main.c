@@ -14,25 +14,25 @@ int main(void) {
   if(g<60){
     printf("Your letter grade for CMPSC 131 is F.\n");
   }
-  else if(g<=70){
+  else if(g<70){
     printf("Your letter grade for CMPSC 131 is D.\n");
   }
-  else if(g<=77){
+  else if(g<77){
     printf("Your letter grade for CMPSC 131 is C.\n");
   }
-  else if(g<=80){
+  else if(g<80){
     printf("Your letter grade for CMPSC 131 is C+.\n");
   }
-  else if(g<=83){
+  else if(g<83){
     printf("Your letter grade for CMPSC 131 is B-.\n");
   }
-  else if(g<=87){
+  else if(g<87){
     printf("Your letter grade for CMPSC 131 is B.\n");
   }
-  else if(g<=90){
+  else if(g<90){
     printf("Your letter grade for CMPSC 131 is B+.\n");
   }
-  else if(g<=93){
+  else if(g<93){
     printf("Your letter grade for CMPSC 131 is A-.\n");
   }
   else {
